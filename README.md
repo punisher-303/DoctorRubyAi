@@ -48,8 +48,8 @@ Built for modern clinical workflows. Designed with precision. Powered by trusted
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/punisher-303/Ruby-Retell-AI.git
-cd Ruby-Retell-AI
+git clone https://github.com/punisher-303/DoctorRubyAi.git
+cd Doctor Ruby Ai
 ```
 
 2. Install dependencies:
