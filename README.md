@@ -23,11 +23,11 @@ Built for modern clinical workflows. Designed with precision. Powered by trusted
 | Frontend           | Next.js 13, React, TypeScript |
 | UI Components      | Tailwind CSS, Shadcn UI       |
 | Data Visualization | Tremor                        |
-| Database           | Supabase                      |
-| Voice Intelligence | Retell AI                     |
-| Scheduling         | Cal.com                       |
+| Database           | Supabase        ❌ Not used  |
+| Voice Intelligence | Retell AI       ❌ Not used  |
+| Scheduling         | Cal.com         ❌ Not used  |
 | Real-Time Layer    | WebSocket                     |
-| Authentication     | NextAuth.js                   |
+| Authentication     | NextAuth.js     ❌ Not used  |
 
 ---
 
@@ -60,7 +60,7 @@ npm install
 
 3. Configure environment variables:
 
-Create a `.env` file in the root directory with the following content:
+Create a `.env example.env` file in the root directory with the following content:
 
 ```dotenv
 # Supabase
