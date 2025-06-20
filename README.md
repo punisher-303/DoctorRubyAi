@@ -23,11 +23,11 @@ Built for modern clinical workflows. Designed with precision. Powered by trusted
 | Frontend           | Next.js 13, React, TypeScript |
 | UI Components      | Tailwind CSS, Shadcn UI       |
 | Data Visualization | Tremor                        |
-| Database           | Supabase        ❌ Not used  |
-| Voice Intelligence | Retell AI       ❌ Not used  |
-| Scheduling         | Cal.com         ❌ Not used  |
+| ❌Database        | Supabase                       |
+| Voice Intelligence | Retell AI                     |
+| ❌Scheduling      | Cal.com                        |
 | Real-Time Layer    | WebSocket                     |
-| Authentication     | NextAuth.js     ❌ Not used  |
+| ❌Authentication  | NextAuth.js                    |
 
 ---
 
